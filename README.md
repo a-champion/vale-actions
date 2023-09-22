@@ -1,1 +1,1 @@
-# vale-actions
+# vale-and-github-actions
